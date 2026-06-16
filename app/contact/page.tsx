@@ -90,7 +90,7 @@ export default function ContactPage() {
 											</svg>
 										</div>
 										<span className="text-sm text-slate-700">
-											Johannesburg, Gauteng, South Africa
+											Kempton Park, Gauteng, South Africa
 										</span>
 									</div>
 								</div>
